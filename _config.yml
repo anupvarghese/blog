@@ -1,5 +1,5 @@
 name: Blog
 markdown: redcarpet
 pygments: true
-baseurl: /
+baseurl: /blog
 markdown: kramdown
